@@ -1,5 +1,9 @@
 <h1 align="center"> 📖 Дипломы и сертификаты</h1>
 
+<p align="center" dir="auto">
+<img alt="Static Badge" src="https://i.gifer.com/origin/24/24bc12e3068b10ae9ac86ea238fe112c_w200.gif" width="300" height="200">
+</p>
+
 <table>
 <thead>
 <tr>
