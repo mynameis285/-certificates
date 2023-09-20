@@ -16,7 +16,7 @@
 <tr>
 <td align="center">Яндекс Практикум</td>
 <td align="center">Аналитик данных</td>
-<td><a href="https://github.com/mynameis285/-certificates/blob/main/Yandex%20EdTech.pdf">Диплом о профессиональной переподготовке по программе "Аналитик данных"</a></td>
+<td><a href="https://github.com/mynameis285/-certificates/tree/main/Yandex">Диплом о профессиональной переподготовке по программе "Аналитик данных"</a></td>
 </tr>
 </tr>
 </tbody>
