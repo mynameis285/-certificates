@@ -1,7 +1,7 @@
 <h1 align="center"> 📖 Дипломы и сертификаты</h1>
 
 <p align="center" dir="auto">
-<img alt="Static Badge" src="https://i.gifer.com/origin/24/24bc12e3068b10ae9ac86ea238fe112c_w200.gif" width="300" height="200">
+<img alt="Static Badge" src="https://64.media.tumblr.com/62c2e1a76c9754152d56f17e36b1fb24/tumblr_ns5pai2SfF1t0t8uno1_1280.gif"width="500" height="300">
 </p>
 
 <table>
