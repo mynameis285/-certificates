@@ -21,7 +21,7 @@
 </tr>
 
 <tr>
-<td align="center">SQL ACADEMY</td>
+<td align="center">SQL Academy</td>
 <td align="center">Тренажёр SQL</td>
 <td><a href="https://github.com/mynameis285/-certificates/tree/main/sqlacademy">Сертификат за успешное прохождение тренажёра</a></td>
 </tr>
